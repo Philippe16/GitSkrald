@@ -4,7 +4,12 @@ amk
 
 shooters shoot
 
+<<<<<<< HEAD
 Sko og yarrak
+=======
+husk din ølbong og gummi
+
+>>>>>>> c473e0ea9a7f7d73a5495c234473c41164d290aa
 
 
 
